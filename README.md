@@ -1,13 +1,13 @@
-> 一直对vue很感兴趣，最近使用vue2.0开发了高仿饿了么点餐系统来练练手，不得不说vue真是一个很不错的框架，但是也遇到过一些坑，在这里和大家分享一下
-
+根据   SimonZhangITer / VueDemo_Sell_Eleme  模仿的作品
 # 饿了么点餐系统
 
+使用技术
 > vue2.0、vuex、vue-router、axios、webpack、eslint、better-scroll
 
 
 ## 演示 
 
-<a href="https://simonzhangiter.github.io/VueDemo_Sell_Eleme" target=_blank>在线演示戳我</a>（请使用chrome开发者手机演示模式预览）
+<a href="https://zozopen.github.io/fangeleme/dist/" target=_blank>在线演示戳我</a>（请使用chrome开发者手机演示模式预览）
 
 ### 移动端演示
 扫二维码在手机上查看效果更好
